@@ -121,7 +121,6 @@ header h2 span {
     padding: 0 50px;
 }
 
-
 /*****CONTACT SECTION*****/
 #contact {
     background: #ebebeb;
@@ -187,8 +186,7 @@ header h2 span {
     float: left; 
     padding: 75px 0px 75px 300px;
 }
-
-/****PORTFOLIO MAIN*****/
+/****PORTFOLIO BODY*****/
 #example {
     height: 600px;
     background: #f9ceb7;
@@ -201,7 +199,7 @@ header h2 span {
     height: auto;
     border: 12px solid #ebebeb;
     margin: 0 95px;
-    padding: 10px; 
+    padding: 10px;
 }
 
 #example h2 {
@@ -209,14 +207,12 @@ header h2 span {
     padding: 80px 0 40px 0;
     font-family: 'Lora', serif;
     font-size: 32px;
-
 }
 
 #example h3 {
     clear: both;
     font-family: 'Lora', serif;
-    font-size: 24px;
+    font-size: 32px;
     line-height: 0px;
     padding: 20px 0px 5px 145px;
 }
-
